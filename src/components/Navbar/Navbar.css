@@ -1,0 +1,20 @@
+
+.bg-myYellow{
+    background-color: #f8bb2c;
+}
+.name{
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    font-weight: 750;
+}
+img {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 50px;
+}
+span{
+    margin-left: 25px;
+}
