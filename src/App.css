@@ -12,3 +12,8 @@
 .App {
   text-align: center;
 }
+
+.content{
+  margin: 30vh;
+  font-size: 25px;
+}

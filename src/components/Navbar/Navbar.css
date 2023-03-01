@@ -7,14 +7,24 @@
     text-align: center;
     color: black;
     font-weight: 750;
+    margin-left: 25px;
+    margin-top: 250px;
 }
 img {
     margin-left: 50px;
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 20px;
     height: 50px;
     width: 50px;
 }
-span{
-    margin-left: 25px;
+.right-aligned{
+    justify-content: flex-end;
+    padding-left: 50px;
+}
+.Nav{
+    padding: auto;
+}
+
+.navbar-nav{
+    padding: 20px;
 }
